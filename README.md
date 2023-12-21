@@ -1,6 +1,6 @@
-# crud_firebase
+# Simple Flutter Note App Using Firebase
 
-A new Flutter project.
+A simple note app with basic crud feature using Firebase Cloud Firestore
 
 ## Getting Started
 
